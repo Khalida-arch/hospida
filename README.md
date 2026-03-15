@@ -1,6 +1,6 @@
 # Hospida — AI Emergency Response Platform
 
-An AI-powered emergency intake and dispatch system for community 
+An AI-powered emergency intake and dispatch system for communities
 emergency services in Nigeria.
 
 ## What it does
