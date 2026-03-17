@@ -15,6 +15,11 @@ emergency services in Nigeria.
 - Google Sheets — emergency log
 - Next.js + Supabase — responder dashboard (in progress)
 
+- ## Dashboard Preview
+![Hospida Dashboard](dashboard-preview.png)
+
+[View Live Dashboard →](https://lookerstudio.google.com/reporting/a380ac28-9019-4a24-b74c-9ef44ca2102c)
+
 ## Status
 🟡 In active development — March 2026
 
